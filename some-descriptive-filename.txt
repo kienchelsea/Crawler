@@ -1,0 +1,14 @@
+ Volume in drive D has no label.
+ Volume Serial Number is 73A7-6B60
+
+ Directory of D:\Data\nodejs\crawler
+
+03/02/2021  04:29 PM    <DIR>          .
+03/02/2021  04:29 PM    <DIR>          ..
+03/02/2021  02:35 PM               693 app.js
+03/02/2021  04:27 PM    <DIR>          node_modules
+03/02/2021  10:45 AM            31,002 package-lock.json
+03/02/2021  04:26 PM               363 package.json
+03/02/2021  04:29 PM                 0 some-descriptive-filename.txt
+               4 File(s)         32,058 bytes
+               3 Dir(s)  123,762,298,880 bytes free
